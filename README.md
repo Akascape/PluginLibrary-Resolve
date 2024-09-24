@@ -4,9 +4,9 @@
 This is simply a script for Resolve which opens up a window that contains **a list** of all my commercial and free plugins.
 <br> **Features:**
 - Directly open up the installed plugins
-- Search and filter different plugins
+- Search and filter the plugins
 - Get news and offer
-- Get links of my products
+- Get direct links of my products
 - More coming soon...
 
 ## What it's not?
