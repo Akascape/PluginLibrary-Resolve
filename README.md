@@ -1,7 +1,7 @@
 # My PluginLibrary for Resolve
 
 ## What is this?
-This is simply a script for Resolve which opens up a window which contains **a list** of all my commercial and free plugins.
+This is simply a script for Resolve which opens up a window that contains **a list** of all my commercial and free plugins.
 Features:
 - Directly open up the installed plugins
 - Search and filter different plugins
