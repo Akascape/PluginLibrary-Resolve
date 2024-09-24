@@ -11,6 +11,8 @@ This is simply a script for Resolve which opens up a window that contains a **li
 - More coming soon...
 
 ## What it's not?
-This app doesn't contains any of my fuse plugin files or macros. This is just a showcase application which will help users to search my scripts which are already installed on their system. My Resolve plugins can be downloaded from my store: https://akascape.gumroad.com/
+Currently this app doesn't download any of my fuse plugin files or macros. This is just a showcase application which will help users to search my scripts which are already installed on their system. My Resolve plugins can be downloaded from my store: https://akascape.gumroad.com/
+
+userbase and update system will be implemented soon.
 
 
