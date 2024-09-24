@@ -6,6 +6,7 @@ This is simply a script for Resolve which opens up a window that contains **a li
 - Directly open up the installed plugins
 - Search and filter the plugins
 - Get news and offer
+- Easy Interface
 - Get direct links of my products
 - More coming soon...
 
