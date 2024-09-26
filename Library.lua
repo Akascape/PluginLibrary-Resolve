@@ -22,7 +22,7 @@ local html_content = ""
 
 -- CONFIG FILE LINKS:
 local database_link = "https://raw.githubusercontent.com/Akascape/PluginLibrary-Resolve/refs/heads/main/database.json"
-local version_link = "https://raw.githubusercontent.com/Akascape/PluginLibrary-Resolve/refs/heads/main/version.lua"
+local version_link = "https://raw.githubusercontent.com/Akascape/PluginLibrary-Resolve/refs/heads/main/version.json"
 local library_link = "https://raw.githubusercontent.com/Akascape/PluginLibrary-Resolve/refs/heads/main/library.lua"
 local promotion_link = "https://raw.githubusercontent.com/Akascape/PluginLibrary-Resolve/refs/heads/main/protomotion.html"
 
