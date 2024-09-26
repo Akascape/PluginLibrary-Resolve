@@ -17,7 +17,7 @@ But userbase and update system implementation is on the roadmap!
 
 ## How to Install?
 - Download the installer lua script from the releases:
-<br>[<img src="https://img.shields.io/badge/DOWNLOAD-APL_Installer.lua-informational?&color=38568b&logo=Lua&logoColor=blue" width="300">]()
+<br>[<img src="https://img.shields.io/badge/DOWNLOAD-APL_Installer.lua-informational?&color=38568b&logo=Lua&logoColor=blue" width="300">](https://github.com/Akascape/PluginLibrary-Resolve/releases/download/Installer/APL-Installer.lua)
 - Drag and drop this file in the fusion of page of resolve
 - Wait for the installtion process, then click on `WorkSpace>Scripts>Akascape>Library` to open the app
 
