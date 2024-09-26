@@ -24,7 +24,7 @@ local html_content = ""
 local database_link = "https://raw.githubusercontent.com/Akascape/PluginLibrary-Resolve/refs/heads/main/database.json"
 local version_link = "https://raw.githubusercontent.com/Akascape/PluginLibrary-Resolve/refs/heads/main/version.json"
 local library_link = "https://raw.githubusercontent.com/Akascape/PluginLibrary-Resolve/refs/heads/main/Library.lua"
-local promotion_link = "https://raw.githubusercontent.com/Akascape/PluginLibrary-Resolve/refs/heads/main/protomotion.html"
+local promotion_link = "https://raw.githubusercontent.com/Akascape/PluginLibrary-Resolve/refs/heads/main/promotion.html"
 
 -- Function to retrieve data from links
 function GET(url)
