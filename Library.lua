@@ -517,7 +517,7 @@ function win.On.update.Clicked(ev)
 			changed = true
 			local new_app = GET(library_link)
 			if new_app~=nil then
-				file_save(nnew_app, root_folder.."library.lua")
+				file_save(new_app, root_folder.."library.lua")
 				itm.lb1.Text = "Restart Required!"
 				wait(1)
 				win.On.AkascapeLib.Close()
