@@ -521,7 +521,6 @@ function win.On.update.Clicked(ev)
 				itm.lb1.Text = "Restart Required!"
 				wait(1)
 				win.On.AkascapeLib.Close()
-				return
 			end
 		end
 		if changed then
