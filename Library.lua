@@ -157,7 +157,7 @@ win = disp:AddWindow(
 				
 				ui:Button{ ID = "all", Text = "All", MinimumSize = { 50, 22 }, StyleSheet = "color:#ffffff;", Checkable = true, AutoExclusive = true, Checked = true},
 				ui:Button{ ID = "installed", Text = "Installed" , MinimumSize = { 50, 22 }, StyleSheet = "color:#848484;", Checkable = true, AutoExclusive = true,},
-				ui:Button{ ID = "notinstalled", Text = "No Installed" , MinimumSize = { 50, 22 }, StyleSheet = "color:#848484;", Checkable = true, AutoExclusive = true,},
+				ui:Button{ ID = "notinstalled", Text = "Not Installed" , MinimumSize = { 50, 22 }, StyleSheet = "color:#848484;", Checkable = true, AutoExclusive = true,},
 				ui:VGap(2),
 			},
 			ui:HGroup
