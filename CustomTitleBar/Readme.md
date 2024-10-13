@@ -14,6 +14,8 @@ Choose the title bar theme, and click the `SET` button.
 |------| -----|
 | <img width="263" alt="Screenshot 2024-10-10 173919" src="https://github.com/user-attachments/assets/69e24107-ee13-4d54-bca5-81740464b8c7"> | <img width="271" alt="Screenshot 2024-10-10 173938" src="https://github.com/user-attachments/assets/a7c09c16-33ac-4e8b-afdc-90f39085bce3"> |
 
-Note: some modes may not work in windows 10.
+Note: 
+- Some modes may not work in windows 10.
+- Currently this script can't be automated at startup; if anyone know how to automate scripts after opening a project then please let me know.
 
 _Made by Akascape_
