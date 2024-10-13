@@ -3,6 +3,8 @@ This script changes the title bar color of Davinci Resolve, which is white by de
 
 Add this script in the `comp` folder of Davinci Resolve.
 
+[![Download Script](https://img.shields.io/badge/Download-Custom_Title_Bar.lua-brightgreen.svg)](https://raw.githubusercontent.com/Akascape/PluginLibrary-Resolve/refs/heads/scripts/CustomTitleBar/Custom%20Title%20Bar.lua)
+
 | Before | After |
 |------| -----|
 | <img width="263" alt="Screenshot 2024-10-10 173919" src="https://github.com/user-attachments/assets/69e24107-ee13-4d54-bca5-81740464b8c7"> | <img width="271" alt="Screenshot 2024-10-10 173938" src="https://github.com/user-attachments/assets/a7c09c16-33ac-4e8b-afdc-90f39085bce3"> |
