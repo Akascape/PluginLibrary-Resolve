@@ -1,5 +1,5 @@
 This is a script that changes the title bar color of Davinci Resolve in Windows, which is white by default.
-### Why? Because we need full Dark-Mode
+### Why? Because we like full Dark-Mode
 
 Add this script in the `comp` folder of Davinci Resolve.
 
