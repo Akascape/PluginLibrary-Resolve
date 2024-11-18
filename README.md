@@ -22,6 +22,7 @@ But userbase and update system implementation is on the roadmap!
 - Wait for the installtion process, then click on `WorkSpace>Scripts>Akascape>Library` to open the app
 
 _Requirements: Davinci Resolve 16+ (Free or Studio) or any Fusion Studio_
+Update: Davinci Resolve 19.1+ (only Free version) has removed access to the Resolve UI manager API, so use any older version of Resolve to use this script. 
 
 <br> <img src="https://img.shields.io/badge/APP_LICENSE-MIT-informational?&color=green&style=for-the-badge" width="180">
 <br>[<img src="https://img.shields.io/badge/-Follow_Akascape_on_Github-informational?style=flat&logo=github&logoColor=black&color=grey">](https://github.com/Akascape)
